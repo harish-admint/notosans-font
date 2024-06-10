@@ -1,0 +1,66 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "950B5252EFE0F9F5F55333385C029448E3493BEBD1B4347BAF890292342D5615",
+      "size": 2569
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "465E7B320730113FA3325965E7FEFC427BAF74282457D8281B1048E3BABD10F9",
+      "size": 1008
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "3572CDC2EA8F84C4A693693A56DE630C51E7CEAB4528264167E49C32E8D0D173",
+      "size": 6229
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "49E9DC0AA1181A2D30BA5DBF6C8D41326FDF7E4C84D2F62E29274B1CB7F292CC",
+      "size": 2170
+    },
+    "static/Noto-Sans-400-normal-cyrillic-ext.woff2": {
+      "name": "static/Noto-Sans-400-normal-cyrillic-ext.woff2",
+      "checksum": "453F512D3AA69FA28D277B8672515B27CB167E03D7EDD65C9A2D3F443DAFED6F",
+      "size": 22380
+    },
+    "static/Noto-Sans-400-normal-cyrillic.woff2": {
+      "name": "static/Noto-Sans-400-normal-cyrillic.woff2",
+      "checksum": "AA5421DBDAA8B95FAB4EDF3F7345EE2D1E0F1B7C9656FA34E408C1C480FAB26F",
+      "size": 7120
+    },
+    "static/Noto-Sans-400-normal-devanagari.woff2": {
+      "name": "static/Noto-Sans-400-normal-devanagari.woff2",
+      "checksum": "E9B439CDADEC8C1017DB1F1823201A8FD37B24C2082FD844FEEF921BFF758E90",
+      "size": 41976
+    },
+    "static/Noto-Sans-400-normal-greek-ext.woff2": {
+      "name": "static/Noto-Sans-400-normal-greek-ext.woff2",
+      "checksum": "BA983D173BA6B1943E9EF0360830518DD34F7BAD6CABE3E5D6C1D630B50453BE",
+      "size": 4856
+    },
+    "static/Noto-Sans-400-normal-greek.woff2": {
+      "name": "static/Noto-Sans-400-normal-greek.woff2",
+      "checksum": "50B0C961FDCD91B294082BB6EFC80C1CDECF82DC2B853A61175514CC92D9417A",
+      "size": 7804
+    },
+    "static/Noto-Sans-400-normal-latin-ext.woff2": {
+      "name": "static/Noto-Sans-400-normal-latin-ext.woff2",
+      "checksum": "42524F49CDA2FACB99380BDA83CDD8C8F7704F9A61281C0ABE91DC335BB8D4C7",
+      "size": 41372
+    },
+    "static/Noto-Sans-400-normal-latin.woff2": {
+      "name": "static/Noto-Sans-400-normal-latin.woff2",
+      "checksum": "4C0AEA6139BCFBB5D8295DB45717B7DAB4B1EA854564068C5CAC0C2CEFC679FD",
+      "size": 13336
+    },
+    "static/Noto-Sans-400-normal-vietnamese.woff2": {
+      "name": "static/Noto-Sans-400-normal-vietnamese.woff2",
+      "checksum": "99037BCF42B3AAC2272C8B00E9F0B890AB402E3B263320C94CE8AEF4B5BAFD93",
+      "size": 5496
+    }
+  },
+  "zip_url": "https://codeload.github.com/harish-admint/notosans-font/zip/refs/heads/main",
+  "checksum": "E00329FD6D2C98CFB0192FCE076E9D689D9C3742C53130E1D80B5D213A30CA01"
+}
