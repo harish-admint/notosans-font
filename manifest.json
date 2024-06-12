@@ -12,8 +12,8 @@
     },
     "custom.ftd": {
       "name": "custom.ftd",
-      "checksum": "3572CDC2EA8F84C4A693693A56DE630C51E7CEAB4528264167E49C32E8D0D173",
-      "size": 6229
+      "checksum": "A323AC15D8E7D7EAD94A8E2AABBEE0767C3CE5700CCDDB4334BB082B8443C052",
+      "size": 6124
     },
     "index.ftd": {
       "name": "index.ftd",
@@ -62,5 +62,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/harish-admint/notosans-font/zip/refs/heads/main",
-  "checksum": "E00329FD6D2C98CFB0192FCE076E9D689D9C3742C53130E1D80B5D213A30CA01"
+  "checksum": "B0247462985AA0789323B69D6B5BDD12C827DD09C7E27D03292D093F51D0BFF4"
 }
